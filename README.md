@@ -1,6 +1,8 @@
 # Experiment--02-Implementation-of-combinational-logic
-NAME:M HIMAVATH
-REGISTER NUMBER:23010121
+NAME: M HIMAVATH
+
+REGISTER NUMBER: 23010121
+
 Implementation of combinational logic gates
  
 ## AIM:
