@@ -1,21 +1,23 @@
-# Experiment--02-Implementation-of-combinational-logic
-NAME: M HIMAVATH
+# NAME: M HIMAVATH <br>
+# REGISTER NUMBER: 23010121
 
-REGISTER NUMBER: 23010121
+# Experiment-02 Implementation of combinational logic
 
-Implementation of combinational logic gates
  
 ## AIM:
-To implement the given logic function verify its operation in Quartus using Verilog programming.
+
+To implement the given logic function verify its operation in Quartus using Verilog programming.<br>
  F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
  
 
 ## Equipments Required:
+```
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-
+```
 
 ## Theory
+
  A combinational circuit is a circuit in which the output depends on the present combination of inputs. Combinational circuits are made up of logic gates. The output of each logic gate is determined by its logic function. Combinational circuits can be made using various logic gates, such as AND gates, OR gates, and NOT gates.
 
 ## Procedure
